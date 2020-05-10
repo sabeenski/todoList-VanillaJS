@@ -17,3 +17,6 @@ Having worked with React/Redux for sometime, I wanted to do a refresher on my kn
 - CSS3
 - JavaScript
 
+## Demo
+https://todo-vanilla.netlify.app/
+
