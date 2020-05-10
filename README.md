@@ -3,7 +3,7 @@
 # ToDo List App | Vanilla JS
 
 ## Purpose
-Having worked with React/Redux for sometime, I wanted to do a refresher on my knowledge of Javascript. This is a simple todo App that covers the fundamental but important knowledge of DOM Manipulation.
+Having worked with React/Redux for sometime, I wanted to do a refresher on my knowledge of Javascript. This is a simple todo App that covers the fundamental but important knowledge on DOM Manipulation.
 
 ## Features
 - Users can add their todo tasks.
