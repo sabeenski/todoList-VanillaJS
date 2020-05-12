@@ -18,5 +18,4 @@ Having worked with React/Redux for sometime, I wanted to do a refresher on my kn
 - JavaScript
 
 ## Demo
-https://expense-tracker-calc.netlify.app/
-
+https://todo-vanilla.netlify.app/
